@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Generalized Space Time Autoregressive with Exogenous Variable (GSTARX) Model with Outlier Factor"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2020-03-01-analysis-of-generalized-space-time-autoregressive-with-exoge
 excerpt: 'Analysis of Generalized Space Time Autoregressive with Exogenous Variable (GSTARX) Model with Outlier Factor'
 date: 2020-03-01

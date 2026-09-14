@@ -1,7 +1,7 @@
 ---
 title: "Modified Weight Matrix Using Prim's Algorithm in Minimum Spanning Tree Approach for GSTAR(1;1) Model"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2023-04-01-modified-weight-matrix-using-prim-s-algorithm-in-minimum-spa
 excerpt: 'Modified Weight Matrix Using Prim&#39;s Algorithm in Minimum Spanning Tree Approach for GSTAR(1;1) Model'
 date: 2023-04-01

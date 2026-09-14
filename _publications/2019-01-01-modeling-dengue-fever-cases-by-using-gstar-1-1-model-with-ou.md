@@ -1,7 +1,7 @@
 ---
 title: "Modeling Dengue Fever Cases by Using GSTAR(1;1) Model with Outlier Factor"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2019-01-01-modeling-dengue-fever-cases-by-using-gstar-1-1-model-with-ou
 excerpt: 'Modeling Dengue Fever Cases by Using GSTAR(1;1) Model with Outlier Factor'
 date: 2019-01-01

@@ -1,7 +1,7 @@
 ---
 title: "The Approximation of GSTAR Model for Discrete Cases through INAR Model"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2021-01-01-the-approximation-of-gstar-model-for-discrete-cases-through
 excerpt: 'The Approximation of GSTAR Model for Discrete Cases through INAR Model'
 date: 2021-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Forecasting of Dengue Hemorrhagic Fever Cases with Autoregression Distributed Lag Model Using Poisson Regression Approach"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2023-01-01-forecasting-of-dengue-hemorrhagic-fever-cases-with-autoregre
 excerpt: 'Forecasting of Dengue Hemorrhagic Fever Cases with Autoregression Distributed Lag Model Using Poisson Regression Approach'
 date: 2023-01-01

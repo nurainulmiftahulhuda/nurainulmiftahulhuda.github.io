@@ -1,7 +1,7 @@
 ---
 title: "Analysis of Spatial Temporal Model with Intervention Effect on Forest Fires"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2026-04-01-analysis-of-spatial-temporal-model-with-intervention-effect
 excerpt: 'Analysis of Spatial Temporal Model with Intervention Effect on Forest Fires'
 date: 2026-04-01

@@ -1,7 +1,7 @@
 ---
 title: "Forest Fire Analysis from Perspective of Spatial-Temporal Using GSTAR(p;λ1,λ2,…,λp) Model"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2025-05-01-forest-fire-analysis-from-perspective-of-spatial-temporal-us
 excerpt: 'Forest Fire Analysis from Perspective of Spatial-Temporal Using GSTAR(p;λ1,λ2,…,λp) Model'
 date: 2025-05-01

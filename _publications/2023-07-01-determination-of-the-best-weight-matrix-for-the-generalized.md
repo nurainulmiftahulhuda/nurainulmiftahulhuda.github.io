@@ -1,7 +1,7 @@
 ---
 title: "Determination of the Best Weight Matrix for the Generalized Space Time Autoregressive (GSTAR) Model in COVID-19 Cases on Java Island, Indonesia"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2023-07-01-determination-of-the-best-weight-matrix-for-the-generalized
 excerpt: 'Determination of the Best Weight Matrix for the Generalized Space Time Autoregressive (GSTAR) Model in COVID-19 Cases on Java Island, Indonesia'
 date: 2023-07-01

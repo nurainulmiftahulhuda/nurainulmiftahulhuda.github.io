@@ -1,7 +1,7 @@
 ---
 title: "Modelling COVID-19 Growth Cases of Provinces in Java Island by Modified Spatial Weight Matrix GSTAR through Railroad Passenger Mobility"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2021-06-01-modelling-covid-19-growth-cases-of-provinces-in-java-island
 excerpt: 'Modelling COVID-19 Growth Cases of Provinces in Java Island by Modified Spatial Weight Matrix GSTAR through Railroad Passenger Mobility'
 date: 2021-06-01

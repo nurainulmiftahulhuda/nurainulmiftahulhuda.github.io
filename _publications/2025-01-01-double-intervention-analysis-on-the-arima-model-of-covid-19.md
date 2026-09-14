@@ -1,7 +1,7 @@
 ---
 title: "Double Intervention Analysis on the ARIMA Model of COVID-19 Cases in Bali"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2025-01-01-double-intervention-analysis-on-the-arima-model-of-covid-19
 excerpt: 'Double Intervention Analysis on the ARIMA Model of COVID-19 Cases in Bali'
 date: 2025-01-01

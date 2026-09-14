@@ -1,7 +1,7 @@
 ---
 title: "Cross Correlation Function for Identifying the Order of Time-Series Regression in Pontianak's COVID Cases"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2023-09-01-cross-correlation-function-for-identifying-the-order-of-time
 excerpt: 'Cross Correlation Function for Identifying the Order of Time-Series Regression in Pontianak&#39;s COVID Cases'
 date: 2023-09-01

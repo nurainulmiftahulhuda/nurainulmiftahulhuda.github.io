@@ -1,7 +1,7 @@
 ---
 title: "Hybrid ARIMA–Spatial Autocorrelation (Moran Index and LISA) for COVID-19 Vaccination in All Indonesian Provinces"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2023-10-01-hybrid-arima-spatial-autocorrelation-moran-index-and-lisa-fo
 excerpt: 'Hybrid ARIMA–Spatial Autocorrelation (Moran Index and LISA) for COVID-19 Vaccination in All Indonesian Provinces'
 date: 2023-10-01

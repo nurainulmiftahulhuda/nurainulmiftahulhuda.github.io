@@ -1,7 +1,7 @@
 ---
 title: "Control Chart as Verification Tools in Time Series Model"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2022-08-01-control-chart-as-verification-tools-in-time-series-model
 excerpt: 'Control Chart as Verification Tools in Time Series Model'
 date: 2022-08-01

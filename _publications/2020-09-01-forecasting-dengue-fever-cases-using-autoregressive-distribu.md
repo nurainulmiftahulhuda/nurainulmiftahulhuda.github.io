@@ -1,7 +1,7 @@
 ---
 title: "Forecasting Dengue Fever Cases Using Autoregressive Distributed Lag Model with Outlier Factor"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2020-09-01-forecasting-dengue-fever-cases-using-autoregressive-distribu
 excerpt: 'Forecasting Dengue Fever Cases Using Autoregressive Distributed Lag Model with Outlier Factor'
 date: 2020-09-01

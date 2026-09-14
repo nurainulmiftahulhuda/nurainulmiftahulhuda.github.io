@@ -1,7 +1,7 @@
 ---
 title: "New Algorithm in Detecting Outliers from a Spatial–Temporal Perspective in Forest Fire Cases"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2026-05-01-new-algorithm-in-detecting-outliers-from-a-spatial-temporal
 excerpt: 'New Algorithm in Detecting Outliers from a Spatial–Temporal Perspective in Forest Fire Cases'
 date: 2026-05-01

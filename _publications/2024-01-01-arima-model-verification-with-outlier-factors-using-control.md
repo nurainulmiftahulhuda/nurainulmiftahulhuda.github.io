@@ -1,7 +1,7 @@
 ---
 title: "ARIMA Model Verification with Outlier Factors Using Control Charts"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2024-01-01-arima-model-verification-with-outlier-factors-using-control
 excerpt: 'ARIMA Model Verification with Outlier Factors Using Control Charts'
 date: 2024-01-01

@@ -1,7 +1,7 @@
 ---
 title: "Stationary Process in GSTAR(1;1) through Kernel Function Approach"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2020-08-01-stationary-process-in-gstar-1-1-through-kernel-function-appr
 excerpt: 'Stationary Process in GSTAR(1;1) through Kernel Function Approach'
 date: 2020-08-01

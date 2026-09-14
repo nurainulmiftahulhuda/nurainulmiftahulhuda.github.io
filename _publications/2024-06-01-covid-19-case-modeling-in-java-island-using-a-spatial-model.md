@@ -1,7 +1,7 @@
 ---
 title: "COVID-19 Case Modeling in Java Island Using a Spatial Model, GSTAR(1;1), with Modified Spatial Weights: Queen Contiguity Weight Matrix"
 collection: publications
-category: conferencepapers
+category: conferences
 permalink: /publication/2024-06-01-covid-19-case-modeling-in-java-island-using-a-spatial-model
 excerpt: 'COVID-19 Case Modeling in Java Island Using a Spatial Model, GSTAR(1;1), with Modified Spatial Weights: Queen Contiguity Weight Matrix'
 date: 2024-06-01

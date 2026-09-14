@@ -1,7 +1,7 @@
 ---
 title: "Minimal Grid Dimensions for High-Order Connectivity via 2-Distance Dominating Sets in Spatial-Temporal Analysis"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2026-06-01-minimal-grid-dimensions-for-high-order-connectivity-via-2-di
 excerpt: 'Minimal Grid Dimensions for High-Order Connectivity via 2-Distance Dominating Sets in Spatial-Temporal Analysis'
 date: 2026-06-01

@@ -1,7 +1,7 @@
 ---
 title: "Spatio-temporal Modeling of Fire Hotspots Using GSTAR(1;1) Model with Meteorology-Based Weight Matrices"
 collection: publications
-category: journalarticles
+category: manuscripts
 permalink: /publication/2025-09-01-spatio-temporal-modeling-of-fire-hotspots-using-gstar-1-1-mo
 excerpt: 'Spatio-temporal Modeling of Fire Hotspots Using GSTAR(1;1) Model with Meteorology-Based Weight Matrices'
 date: 2025-09-01
