@@ -9,56 +9,45 @@ redirect_from:
 
 {% include base_path %}
 
+Email: [nurainul@fmipa.untan.ac.id](mailto:nurainul@fmipa.untan.ac.id)
+
 Education
 ======
-* Ph.D in Version Control Theory, GitHub University, 2018 (expected)
-* M.S. in Jekyll, GitHub University, 2014
-* B.S. in GitHub, GitHub University, 2012
+* M.Si in Mathematics (Statistics specialization), Institut Teknologi Bandung (ITB), 2017–2019
+* S.Si in Mathematics, Universitas Tanjungpura, 2012–2016
 
-Work experience
+Professional Appointments
 ======
-* Spring 2024: Academic Pages Collaborator
-  * GitHub University
-  * Duties includes: Updates and improvements to template
-  * Supervisor: The Users
+* Assistant Professor, Department of Mathematics, Faculty of Mathematics and Natural Sciences, Universitas Tanjungpura, Pontianak, Indonesia
 
-* Fall 2015: Research Assistant
-  * GitHub University
-  * Duties included: Merging pull requests
-  * Supervisor: Professor Hub
-
-* Summer 2015: Research Assistant
-  * GitHub University
-  * Duties included: Tagging issues
-  * Supervisor: Professor Git
-  
-Skills
+Research Interests
 ======
-* Skill 1
-* Skill 2
-  * Sub-skill 2.1
-  * Sub-skill 2.2
-  * Sub-skill 2.3
-* Skill 3
+* Spatio-Temporal Statistics
+* Time Series Analysis
+* Generalized Space-Time Autoregressive (GSTAR)
+* Dynamic Spatial Weight Matrix
+* Spatial Network Analysis
+* Stochastic Block Models
+* Environmental Statistics
+
+Research Grants (Principal Investigator)
+======
+* 2026–2027: Developing a Spatial-Temporal Risk Prediction System for Multiple Environmental Hazards Using Satellite Imagery and IoT — Ministry of Higher Education, Science and Technology (BIMA)
+* 2026–2027: Dynamic Spatial Weight Modification in GSTAR-Based Spatio-Temporal Analysis for a Web-Based Forest Fire Mitigation System — National Research and Innovation Agency (BRIN)
+* 2025: Impact Evaluation of 13 Programs in ASRI Foundation Intervention Areas — Yayasan Alam Sehat Lestari (ASRI), North Kayong Regency
+* 2024: Estimating Health Costs of Peatland Fires Using a Spatial-Temporal Econometric Model — Directorate General of Higher Education (BIMA)
 
 Publications
 ======
-  <ul>{% for post in site.publications reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Talks
+See the full list on the [Publications](/publications/) page (15 refereed journal articles, 9 conference proceedings).
+
+Academic Service
 ======
-  <ul>{% for post in site.talks reversed %}
-    {% include archive-single-talk-cv.html  %}
-  {% endfor %}</ul>
-  
-Teaching
+* Peer reviewer, Spatial and Spatio-temporal Epidemiology (Elsevier) — Q2
+* Peer reviewer, Hacettepe Journal of Mathematics and Statistics — Q2
+
+Skills
 ======
-  <ul>{% for post in site.teaching reversed %}
-    {% include archive-single-cv.html %}
-  {% endfor %}</ul>
-  
-Service and leadership
-======
-* Currently signed in to 43 different slack teams
+* Statistical modelling: GSTAR, ARIMA, VAR, spatial autocorrelation (Moran's Index, LISA)
+* Spatial data analysis: clustering (K-means), Ordinary Kriging
+* Programming: R, Python
