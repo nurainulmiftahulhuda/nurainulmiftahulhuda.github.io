@@ -11,8 +11,8 @@ locale                   : "en-US"
 site_theme               : "mint" # The available themes options are "default", "air", "sunrise", "mint", "dirt" and "contrast"
 title                    : "Nur'ainul Miftahul Huda"
 title_separator          : "-"
-name                     : &name "Your Name"
-description              : &description "Your Name's academic portfolio"   # Update this with a general description of your site, this is the default if not overridden by a page
+name                     : &name "Nur'ainul Mfitahul Huda"
+description              : &description "Academic portfolio of Nur'ainul Miftahul Huda, Assistant Professor of Mathematics at Universitas Tanjungpura, specializing in spatio-temporal statistics and GSTAR models"
 url                      : https://nurainulmiftahulhuda.github.io # The base hostname & protocol for your site e.g. "https://[your GitHub username].github.io",
                                                            # or if you already have some other page hosted on Github then use "https://[your GitHub username].github.io/[Your Repo Name]"
 baseurl                  : "" # the subpath of your site, e.g. "/blog"
@@ -41,7 +41,7 @@ author:
   orcid            : "https://orcid.org/0000-0002-5506-3215"
   semantic         : # URL
   ssrn             : # URL
-  pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
+  pubmed           : # "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
   researchgate     : "https://www.researchgate.net/profile/Nurainul-Huda-3"
   scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57211916953"
   zotero           : # URL
@@ -64,7 +64,7 @@ author:
   goodreads        : # Username
   google_plus      : # Username
   keybase          : # Username
-  instagram        : # Username
+  instagram        : "miftah_1411"
   lastfm           : # Username
   linkedin         : # Username
   mastodon         : # URL
@@ -79,7 +79,7 @@ author:
   weibo            : # Username
   wikipedia        : # Username
   xing             : # Username
-  youtube          : # Username
+  youtube          : "https://www.youtube.com/@nurainulmiftahulhuda2680"
   zhihu            : # Username
 
 # Publication Category - The following the list of publication categories and their headings
