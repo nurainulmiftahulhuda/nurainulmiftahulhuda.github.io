@@ -23,14 +23,14 @@ repository               : "nurainulmiftahulhuda/nurainulmiftahulhuda.github.io"
 #               Additional customization can be done by editing /_includes/author-profile.html
 author:
   # Biographic information
-  avatar           : "profile.png"
-  name             : "Your Sidebar Name"
-  pronouns         : # example: "she/her"  
-  bio              : "Short biography for the left-hand sidebar"
-  location         : "Earth"
-  employer         : "Red Brick University"
+  avatar           : "Miftah.jpg"
+  name             : "Nur'ainul Miftahul Huda"
+  pronouns         : "she/her"  
+  bio              : "Lecturer"
+  location         : "Pontianak, Kalimantan Barat, Indonesia"
+  employer         : "Universitas Tanjungpura"
   uri              : # URL
-  email            : "none@example.org" 
+  email            : "nurainul@fmipa.untan.ac.id" 
 
   # Academic websites
   academia         : # URL
@@ -38,12 +38,12 @@ author:
   googlescholar    : "https://scholar.google.com/citations?user=PS_CX0AAAAAJ"
   inspire-hep      : # URL
   impactstory      : # URL
-  orcid            : "https://orcid.org/yourorcidurl"
+  orcid            : "https://orcid.org/0000-0002-5506-3215"
   semantic         : # URL
   ssrn             : # URL
   pubmed           : "https://www.ncbi.nlm.nih.gov/pubmed/?term=john+snow"
-  researchgate     : # URL
-  scopus           : # URL
+  researchgate     : "https://www.researchgate.net/profile/Nurainul-Huda-3"
+  scopus           : "https://www.scopus.com/authid/detail.uri?authorId=57211916953"
   zotero           : # URL
 
 
